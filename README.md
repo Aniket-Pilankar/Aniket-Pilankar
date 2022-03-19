@@ -18,9 +18,18 @@
 
 Here is the link of my personal portfolio https://aniketpilankar-portfolio-aniketpilankar1998-gmailcom.vercel.app/.
 
+<h3>Status</h3>
+
+<h5>Contribution graph</h5>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket-Pilankar&theme=react-dark)](https://github.com/Aniket-Pilankar/github-readme-activity-graph)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniket-Pilankar&show_icons=true&theme=radical)
+
 <h5>Languages</h5>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket-Pilankar&show_icons=true&locale=en&layout=compact&hide=css" alt="rajp62" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket-Pilankar&show_icons=true&locale=en&layout=compact&hide=css" alt="Aniket-Pilankar" /></p>
 
 <h5>Streaks</h5>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Pilankar&" alt="rajp62" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Pilankar&" alt="Aniket-Pilankar" /></p>
