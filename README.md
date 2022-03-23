@@ -8,7 +8,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/13XH_1OHMSbPxoD59o50PJAjhk6u2xqjr/view?usp=sharing](https://drive.google.com/file/d/13XH_1OHMSbPxoD59o50PJAjhk6u2xqjr/view?usp=sharing)
 
 
-Here is the link of my personal portfolio https://aniketpilankar-portfolio-aniketpilankar1998-gmailcom.vercel.app/.
+<!-- Here is the link of my personal portfolio https://aniketpilankar-portfolio-aniketpilankar1998-gmailcom.vercel.app/. -->
+Here is the link of my personal portfolio https://aniketpilankar-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
