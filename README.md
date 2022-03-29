@@ -26,7 +26,7 @@ Here is the link of my personal portfolio https://aniketpilankar-portfolio.verce
 
 <!-- <h5>Contribution graph</h5> -->
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket-Pilankar&theme=react-dark)](https://github.com/Aniket-Pilankar/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket-Pilankar&theme=react-dark)](https://github.com/Aniket-Pilankar/github-readme-activity-graph)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniket-Pilankar&show_icons=true&theme=radical)
