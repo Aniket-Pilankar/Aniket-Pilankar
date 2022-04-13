@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aniketpilankar1998@gmail.com** || 8652433085
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FllPZJeXsSYatHWnSPzX2TlD5NIxN5O4/view?usp=sharing](https://drive.google.com/file/d/13XH_1OHMSbPxoD59o50PJAjhk6u2xqjr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FllPZJeXsSYatHWnSPzX2TlD5NIxN5O4/view?usp=sharing](https://drive.google.com/file/d/1FllPZJeXsSYatHWnSPzX2TlD5NIxN5O4/view?usp=sharing)
 
 
 <!-- Here is the link of my personal portfolio https://aniketpilankar-portfolio-aniketpilankar1998-gmailcom.vercel.app/. -->
