@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **aniketpilankar1998@gmail.com** || 8652433085
+- 📫 How to reach me **aniketpilankar1998@gmail.com** 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Sfe5K_UO8zkvXJdT6wJL-GwnJY4d2wuB/view?usp=sharing)
 
