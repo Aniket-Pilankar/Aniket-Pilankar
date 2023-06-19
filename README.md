@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket </h1>
+<h1 align="center">Hi 👋, I'm Aniket Pilankar </h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 🌱 I’m currently learning **React**
@@ -9,16 +9,16 @@
 
 
 <!-- Here is the link of my personal portfolio https://aniketpilankar-portfolio-aniketpilankar1998-gmailcom.vercel.app/. -->
-<!-- Here is the link of my personal portfolio https://aniketpilankar-portfolio.vercel.app/ -->
+Here is the link of my personal portfolio https://aniketpilankar-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/aniket-pilankar-534202213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket pilankar" height="30" width="40" /></a> -->
-<!-- <a href="https://medium.com/@aniketpilankar1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aniketpilankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-pilankar-534202213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket pilankar" height="30" width="40" /></a> -->
+<a href="https://medium.com/@aniketpilankar1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aniketpilankar" height="30" width="40" /></a>
 <a href="https://twitter.com/aniketpilankar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketpilankar5" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aniketpilankar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aniketpilankar11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniket1738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket1738" height="30" width="40" /></a>
-</p> -->
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
