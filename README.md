@@ -3,13 +3,13 @@
 
 <!-- - 🌱 I’m currently learning **React** -->
 
-<!-- - 📫 How to reach me **aniketpilankar1998@gmail.com**  -->
+<!-- - 📫 How to reach me **aniketpilankar1998@gmail.com** https://aniketpilankar-portfolio.vercel.app/  -->
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Sfe5K_UO8zkvXJdT6wJL-GwnJY4d2wuB/view?usp=sharing) -->
 
 
 <!-- Here is the link of my personal portfolio https://aniketpilankar-portfolio-aniketpilankar1998-gmailcom.vercel.app/. -->
-Here is the link of my personal portfolio https://aniketpilankar-portfolio.vercel.app/
+Here is the link of my personal portfolio https://aniketpilankar.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
